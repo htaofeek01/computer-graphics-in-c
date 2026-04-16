@@ -1,7 +1,7 @@
 /*******************************************
 Statement - Print Hello World
-Programmer - Vineet Choudhary
-Written For - http://developerinsider.in
+Programmer - Taofeek Hammed
+Written For - CPE508 course
 ********************************************/
 
 #include <stdio.h>
